@@ -1,9 +1,9 @@
 body
 {
-    font-family: 'arial',sans-serif;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
     color: #452e28;
-    background-color: #d3e4e8;
-    font-size: 14px;
+    background-color: #452e28;
+    font-size: 16px;
     
 }
 .main
@@ -11,31 +11,48 @@ body
     max-width: 900px;
     min-width: 660px;
     margin: auto;
-    background-color: #e6ffe6;
+    background-color: #452e28;
     clear: both;
   
 }
 .title
 {
-    background-color: #e6b6a3;
-    padding: 5% 10% 5% 10%;
-    margin-bottom: 2%; 
+    padding: 5% 0% 5% 0%;
+    font-family: "Lobster", sans-serif;
+}
+.preheading {
+    text-indent: 15%;
+    font-style: italic; 
+    font-size:30px;
+    color: #b84444;
 }
 .oss
 {
+    background-color: #e6b6a3;
+    padding: 3% 5% 3% 5%;
+    border-radius: 15px;
     text-align:center;
-    font-size:40px;
+    font-size:70px;
 }
 h2
 {
   margin: 0px;
   padding: 0px 0px 5px 0px;
   text-align:center;
+  font-family: "Lobster", sans-serif;
+}
+h3
+{
+  margin: 0px;
+  padding: 3px 0px 5px 0px;
+  text-align:center;
+  font-family: "Lobster", sans-serif;
+  font-size: 20px;
 }
 
 .box_holder
 {
-    
+    border-radius: 15px;    
     background-color: #b37969;
     clear: both;
     text-align:center;
