@@ -1,9 +1,10 @@
 body
 {
     font-family: 'arial',sans-serif;
-    color: dimgray;
+    color: #452e28;
     background-color: #d3e4e8;
     font-size: 14px;
+    
 }
 .main_holder
 {
@@ -13,13 +14,14 @@ body
 }
 .main
 {
-    background-color: #ffffff;
+    background-color: #e6ffe6;
     width: 100%;
     clear: both;
   
 }
 .title
 {
+    background-color: #e6b6a3;
     padding: 5% 10% 5% 10%;
     
 }
@@ -32,14 +34,14 @@ body
 .box_holder
 {
     
-    background-color: #ffff44;
+    background-color: #b37969;
     clear: both;
     text-align:center;
-
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .box
 {
-    background-color: #ffff44;
     margin-left: 1%;
     margin-top: 1%;
     margin-bottom: 1%;
@@ -58,12 +60,11 @@ body
     margin-left: 0%;
 }
 .sel:hover {
-    background-color: red;
+    background-color: #b84444;
 }    
 img
 {
     margin-top: 5%;
-    border-style: solid;
     border-radius: 15px;
     display:inline-block;
     width: 90%;
@@ -73,4 +74,5 @@ img
 
 a {
     text-decoration: none;
+    color: #452e28;
 }
