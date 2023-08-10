@@ -109,6 +109,6 @@ a {
     text-decoration: none;
     color: #452e28;
 }
-#oss_text:hover {
+.title:hover {
     color: #b84444;
 }
