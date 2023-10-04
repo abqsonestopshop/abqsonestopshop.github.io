@@ -26,12 +26,11 @@ body
     font-size:30px;
     color: #b84444;
 }
-.title:hover {
-    color: #b84444;
-}
-
 a {
     text-decoration: none;
+    color: ##752d2d;
+}
+.title:hover {
     color: #b84444;
 }
 .oss
