@@ -102,6 +102,9 @@ color: #452e28;
 .title:hover {
     color: #b84444;
 }
+a:hover {
+    color: #b84444;
+}
 img
 {
     margin-top: 5%;
