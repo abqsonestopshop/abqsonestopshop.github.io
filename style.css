@@ -30,9 +30,6 @@ a {
     font-size:30px;
     color: #b84444;
 }
-.title:hover {
-    color: #b84444;
-}
 .oss
 {
     background-color: #e6b6a3;
@@ -102,8 +99,9 @@ color: #452e28;
 .sel:hover {
     background-color: #b84444;
 }    
-
-
+.title:hover {
+    color: #b84444;
+}
 img
 {
     margin-top: 5%;
