@@ -15,6 +15,10 @@ body
     clear: both;
   
 }
+a {
+    text-decoration: none;
+    color: #752d2d;
+}
 .title
 {
     padding: 5% 0% 5% 0%;
@@ -25,10 +29,6 @@ body
     font-style: italic; 
     font-size:30px;
     color: #b84444;
-}
-a {
-    text-decoration: none;
-    color: ##752d2d;
 }
 .title:hover {
     color: #b84444;
