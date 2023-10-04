@@ -108,10 +108,8 @@ img
 a {
     text-decoration: none;
     color: #452e28;
-}
-.title:hover {
     color: #b84444;
 }
-.reg_link {
+.title:hover {
     color: #b84444;
 }
