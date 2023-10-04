@@ -33,6 +33,7 @@ body
     border-radius: 15px;
     text-align:center;
     font-size:70px;
+    color: #452e28;:w
 }
 h2
 {
@@ -48,6 +49,7 @@ h3
   text-align:center;
   font-family: "Lobster", sans-serif;
   font-size: 20px;
+color: #452e28;
 }
 
 .box_holder
@@ -112,3 +114,4 @@ a {
 .title:hover {
     color: #b84444;
 }
+
